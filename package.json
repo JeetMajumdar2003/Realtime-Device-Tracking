@@ -1,0 +1,14 @@
+{
+  "name": "realtime-device-tracking",
+  "version": "1.0.0",
+  "description": "Realtime Device Tracking Map with Node.js, Express, Socket.io, and Leaflet.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.5"
+  }
+}
