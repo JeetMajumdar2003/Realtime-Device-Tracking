@@ -26,9 +26,9 @@
    - [x] Add a sidebar or list view showing all connected devices.
 
 7. **User Authentication & Privacy**
-   - [ ] Implement simple authentication (e.g., username/password or OAuth).
-   - [ ] Allow users to choose whether to share their location.
-   - [ ] Add a toggle to hide/show own location on the map.
+   - [x] Implement simple authentication (e.g., username/password or OAuth).
+   - [x] Allow users to choose whether to share their location.
+   - [x] Add a toggle to hide/show own location on the map.
 
 8. **Location History & Playback**
    - [ ] Store device location history on the server.

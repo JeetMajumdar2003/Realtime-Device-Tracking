@@ -10,6 +10,21 @@
 </head>
 
 <body>
+    <div id="privacy-controls">
+        <div class="control-item">
+            <label>
+                <input type="checkbox" id="share-location" checked> Share my location
+            </label>
+        </div>
+        <div class="control-item">
+            <label>
+                <input type="checkbox" id="show-on-map" checked> Show my location on map
+            </label>
+        </div>
+        <div class="control-item">
+            <button id="logout-btn">Logout</button>
+        </div>
+    </div>
     <div id="map"></div>
     <div id="device-list"></div>
     <script src="/socket.io/socket.io.js"></script>
