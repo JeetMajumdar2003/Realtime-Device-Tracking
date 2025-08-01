@@ -8,6 +8,7 @@ Track devices in real-time on a web dashboard. Built for learning and demo purpo
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
 - [License](#license)
+- [Contributing](#contributing)
 
 ## Features
 - **User Authentication**: Simple username/password authentication system
@@ -58,3 +59,33 @@ Track devices in real-time on a web dashboard. Built for learning and demo purpo
 
 ## License
 This project is licensed under the MIT License.
+
+## Contributing
+
+Contributions are welcome! If you would like to improve this project, please follow these steps:
+
+1. **Fork the repository**: Click the "Fork" button at the top right of this page to create your own copy of this repository.
+2. **Clone your fork**: Download your fork to your local machine with:
+   ```bash
+   git clone https://github.com/<your-username>/Realtime-Device-Tracking.git
+   ```
+3. **Create a new branch**: It’s best to create a new branch for your changes:
+   ```bash
+   git checkout -b my-feature-branch
+   ```
+4. **Make your changes**: Implement your feature, fix a bug, or update documentation.
+5. **Commit and push**: Commit your changes and push the branch to your fork:
+   ```bash
+   git add .
+   git commit -m "Describe your changes"
+   git push origin my-feature-branch
+   ```
+6. **Open a Pull Request**: Go to the original repository and open a Pull Request. Please describe your changes in detail.
+7. **Code Review**: Work with the repo maintainers to address any feedback.
+
+**Tips:**
+- For significant changes, please open an issue to discuss your idea first.
+- Make sure your code follows existing style and conventions.
+- Update documentation as needed.
+
+Thank you for contributing!
